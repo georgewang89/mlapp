@@ -1,14 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e52ac648-5c91-4663-b280-73509891b5b6" name="Default Changelist" comment="" />
+    <list default="true" id="e52ac648-5c91-4663-b280-73509891b5b6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/export.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/predict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zebra_opaki_classifier.pth" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cougar-or-not" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/cougar-or-not" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1WrqLChL73kwrmiW8D8eWKQy9ML" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -18,7 +36,116 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings>
+        <option name="useSoftWraps" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.request">
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mlapp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="predict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mlapp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/predict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="request" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mlapp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/request.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mlapp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.request" />
+        <item itemvalue="Python.predict" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.__init__" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -32,5 +159,108 @@
       <updated>1579918003576</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="82" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580010508548">
+      <screen x="0" y="23" width="1440" height="795" />
+    </state>
+    <state x="184" y="82" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.795@0.23.1440.795" timestamp="1580010508548" />
+    <state x="397" y="230" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580011226271">
+      <screen x="0" y="23" width="1440" height="795" />
+    </state>
+    <state x="397" y="230" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.795@0.23.1440.795" timestamp="1580011226271" />
+    <state x="458" y="174" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580010865285">
+      <screen x="0" y="23" width="1440" height="795" />
+    </state>
+    <state x="458" y="174" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.795@0.23.1440.795" timestamp="1580010865285" />
+    <state width="773" height="438" key="DebuggerActiveHint" timestamp="1580013703137">
+      <screen x="0" y="23" width="1440" height="795" />
+    </state>
+    <state width="773" height="438" key="DebuggerActiveHint/0.23.1440.795@0.23.1440.795" timestamp="1580013703137" />
+    <state width="1419" height="252" key="GridCell.Tab.0.bottom" timestamp="1580014577785">
+      <screen x="0" y="23" width="1440" height="795" />
+    </state>
+    <state width="1419" height="252" key="GridCell.Tab.0.bottom/0.23.1440.795@0.23.1440.795" timestamp="1580014577785" />
+    <state width="1419" height="252" key="GridCell.Tab.0.center" timestamp="1580014577784">
+      <screen x="0" y="23" width="1440" height="795" />
+    </state>
+    <state width="1419" height="252" key="GridCell.Tab.0.center/0.23.1440.795@0.23.1440.795" timestamp="1580014577784" />
+    <state width="1419" height="252" key="GridCell.Tab.0.left" timestamp="1580014577783">
+      <screen x="0" y="23" width="1440" height="795" />
+    </state>
+    <state width="1419" height="252" key="GridCell.Tab.0.left/0.23.1440.795@0.23.1440.795" timestamp="1580014577783" />
+    <state width="1419" height="252" key="GridCell.Tab.0.right" timestamp="1580014577784">
+      <screen x="0" y="23" width="1440" height="795" />
+    </state>
+    <state width="1419" height="252" key="GridCell.Tab.0.right/0.23.1440.795@0.23.1440.795" timestamp="1580014577784" />
+    <state width="1419" height="252" key="GridCell.Tab.1.bottom" timestamp="1580014577787">
+      <screen x="0" y="23" width="1440" height="795" />
+    </state>
+    <state width="1419" height="252" key="GridCell.Tab.1.bottom/0.23.1440.795@0.23.1440.795" timestamp="1580014577787" />
+    <state width="1419" height="252" key="GridCell.Tab.1.center" timestamp="1580014577785">
+      <screen x="0" y="23" width="1440" height="795" />
+    </state>
+    <state width="1419" height="252" key="GridCell.Tab.1.center/0.23.1440.795@0.23.1440.795" timestamp="1580014577785" />
+    <state width="1419" height="252" key="GridCell.Tab.1.left" timestamp="1580014577785">
+      <screen x="0" y="23" width="1440" height="795" />
+    </state>
+    <state width="1419" height="252" key="GridCell.Tab.1.left/0.23.1440.795@0.23.1440.795" timestamp="1580014577785" />
+    <state width="1419" height="252" key="GridCell.Tab.1.right" timestamp="1580014577785">
+      <screen x="0" y="23" width="1440" height="795" />
+    </state>
+    <state width="1419" height="252" key="GridCell.Tab.1.right/0.23.1440.795@0.23.1440.795" timestamp="1580014577785" />
+    <state width="720" height="397" key="XDebugger.FullValuePopup" timestamp="1580000429888">
+      <screen x="0" y="23" width="1440" height="795" />
+    </state>
+    <state width="720" height="397" key="XDebugger.FullValuePopup/0.23.1440.795@0.23.1440.795" timestamp="1580000429888" />
+    <state x="543" y="132" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1" timestamp="1580014607841">
+      <screen x="0" y="23" width="1440" height="795" />
+    </state>
+    <state x="543" y="132" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1/0.23.1440.795@0.23.1440.795" timestamp="1580014607841" />
+    <state x="385" y="142" width="670" height="676" key="search.everywhere.popup" timestamp="1580000995293">
+      <screen x="0" y="23" width="1440" height="795" />
+    </state>
+    <state x="385" y="142" width="670" height="676" key="search.everywhere.popup/0.23.1440.795@0.23.1440.795" timestamp="1580000995293" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/__init__.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/request.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/request.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
