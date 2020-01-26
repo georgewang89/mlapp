@@ -11,7 +11,7 @@ def index():
     if(request.method == 'POST'):
         data = request.get_json()
         img_url = data["url"]
-        response = requests.get('https://i.imgur.com/jv5ko9r.jpg')
+        response = requests.get(img_url)
         img = Image.open(BytesIO(response.content))
         img.save('image.jpg')
         img = open_image('image.jpg')
